@@ -1,0 +1,15 @@
+.app{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+input{
+    height: 5vh;
+    width: 25vw;
+}
+button{
+    padding: 7px;
+    background: #000;
+    color: aliceblue;
+}
